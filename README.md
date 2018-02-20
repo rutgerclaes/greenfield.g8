@@ -1,23 +1,28 @@
-A [Giter8][https://www.foundweekends.org/giter8/] template for greenfield scala projects!
+# Greenfield Scala Template
+
+A [Giter8](https://www.foundweekends.org/giter8/) template for greenfield scala projects!
+This template encapsulates some of my default libraries, plugins and settings.
+
+## Usage
 
 ```
 sbt new rutgerclaes/greenfield.g8
 ```
 
-# What's included
+## What's included
 
-## Libraries
+### Libraries
 - [Ficus](https://github.com/iheartradio/ficus) as a wrapper around [Lightbend Config](https://lightbend.github.io/config/)
 - [Scopt](https://github.com/scopt/scopt) to parse command line options
 - [Scalatest](http://www.scalatest.org/) for, you know, tests
 
-## SBT Plugins
+### SBT Plugins
 - [Scalafmt](http://scalameta.org/scalafmt/) SBT plugin and configuration
 - [Coursier](http://get-coursier.io/) SBT plugin
 - [Scalastyle](http://www.scalastyle.org/) SBT plugin and configuration for `main` and `test`
 - [SBT Assembly](https://github.com/sbt/sbt-assembly) plugin
 
-# Template license
+## Template license
 
 Written in 2018 by Rutger Claes <rgc@rgc.be> 
 
