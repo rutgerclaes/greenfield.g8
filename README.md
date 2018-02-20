@@ -7,15 +7,15 @@ sbt new rutgerclaes/greenfield.g8
 # What's included
 
 ## Libraries
-- [Ficus][https://github.com/iheartradio/ficus] as a wrapper around [Lightbend Config][https://lightbend.github.io/config/]
-- [Scopt][https://github.com/scopt/scopt] to parse command line options
-- [Scalatest][http://www.scalatest.org/] for, you know, tests
+- [Ficus](https://github.com/iheartradio/ficus) as a wrapper around [Lightbend Config](https://lightbend.github.io/config/)
+- [Scopt](https://github.com/scopt/scopt) to parse command line options
+- [Scalatest](http://www.scalatest.org/) for, you know, tests
 
 ## SBT Plugins
-- [Scalafmt][http://scalameta.org/scalafmt/] SBT plugin and configuration
-- [Coursier][http://get-coursier.io/] SBT plugin
-- [Scalastyle][http://www.scalastyle.org/] SBT plugin and configuration for `main` and `test`
-- [SBT Assembly][https://github.com/sbt/sbt-assembly] plugin
+- [Scalafmt](http://scalameta.org/scalafmt/) SBT plugin and configuration
+- [Coursier](http://get-coursier.io/) SBT plugin
+- [Scalastyle](http://www.scalastyle.org/) SBT plugin and configuration for `main` and `test`
+- [SBT Assembly](https://github.com/sbt/sbt-assembly) plugin
 
 # Template license
 
